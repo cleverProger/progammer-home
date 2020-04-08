@@ -1,0 +1,67 @@
+*{
+    font-family: 'Comic Neue', cursive;
+}
+
+.navigation-block{
+    margin: 23px; 
+    font-size: 75px;
+    font-family: 'Comic Neue', cursive;
+}
+
+a {
+    color: blue;
+    transition: 3s;
+}
+a:hover, :active{
+    text-decoration: none;
+    color: black;
+}
+.navigation-block{
+    color: black;
+    text-align: center;
+}
+
+#home-button:hover{
+    text-decoration: underline;
+}
+
+#contacts-button:hover{
+    text-decoration: underline;
+}
+
+#articles-button:hover{
+    text-decoration: underline;
+}
+
+#faq-button:hover{
+    text-decoration: underline;
+}
+
+.article-first{
+    font-size: 65px;
+}
+
+.zagolovok-article{
+    color: cadetblue;
+    font-size: 78px;
+    -webkit-text-stroke: 0.5px black;
+}
+
+#allNewsButton{
+    border: 2px solid black ;
+    width: 600px;
+    height: 100px;
+    font-size: 40px;
+    background-color: #BA969E;
+    font-family: 'Anton', sans-serif;
+}
+
+.first-hr{
+    margin: 0px;
+}
+
+.top-navbar-all-themes{
+    border: 3px solid black;
+    background-color: greenyellow;
+    font-size: 178%;
+}
